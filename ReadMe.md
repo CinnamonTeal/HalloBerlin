@@ -1,0 +1,1 @@
+A project site to experiment with Django and Python
